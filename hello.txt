@@ -1,1 +1,5 @@
 Hello world
+
+void main(){
+   //this is a main function
+}
